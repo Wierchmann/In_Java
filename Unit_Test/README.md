@@ -10,5 +10,9 @@ The first set of assert statements test for successful cases where the output of
 
 The second set of assert statements test for failing cases where the output of the "concatRemove" method should not be "yes". These test cases pass if the actual output of the "concatRemove" method does not match the expected output.
 
+NOTE:
+
+I'm not one hundred percent SURE if this code is the best way to test the currently outputs.
+
 
 
