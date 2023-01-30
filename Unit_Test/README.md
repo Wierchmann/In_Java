@@ -12,7 +12,7 @@ The second set of assert statements test for failing cases where the output of t
 
 NOTE:
 
-I'm not one hundred percent SURE if this code is the best way to test the currently outputs.
+I'm not one hundred percent sure if this code is the best way to test the currently outputs.
 
 
 
