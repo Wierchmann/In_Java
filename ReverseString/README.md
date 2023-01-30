@@ -1,4 +1,4 @@
-The program imports the java.util.Scanner class, which allows for user input to be received from the console.
+The code imports the java.util.Scanner class, which allows for user input to be received from the console.
 
 In the main method, a Scanner object is created and used to prompt the user to enter a string. The string entered by the user is stored in the variable 'str'.
 
